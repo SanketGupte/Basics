@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a263e01-112a-4fb8-b8d1-9a2ae28ac145" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sanket/tabnine/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sanket/tabnine/LeapYearChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sanket/tabnine/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sanket/tabnine/TaskManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sanket/tabnine/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sanket/tabnine/LeapYearCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sanket/tabnine/TaskManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sanket/tabnine/TaskTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/sanket/tabnine/Factorial.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2eii1sf3iNY8gfZbITvjy1GcpBj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Factorial.executor": "Run",
+    "Application.LeapYearChecker.executor": "Run",
+    "JUnit.FactorialTest.executor": "Coverage",
+    "JUnit.LeapYearCheckerTest (१).executor": "Coverage",
+    "JUnit.LeapYearCheckerTest.executor": "Coverage",
+    "JUnit.TaskManagerTest.executor": "Coverage",
+    "JUnit.TaskManagerTest.testRemoveTask.executor": "Coverage",
+    "JUnit.TaskTest.executor": "Coverage",
+    "JUnit.com.sanket.tabnine in Basics.executor": "Coverage",
+    "Maven.Basics [clean,install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "code.cleanup.on.save": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sanket.tabnine" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TaskTest">
+    <configuration name="LeapYearCheckerTest (१)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sanket.tabnine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sanket.tabnine" />
+      <option name="MAIN_CLASS_NAME" value="com.sanket.tabnine.LeapYearCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sanket.tabnine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sanket.tabnine" />
+      <option name="MAIN_CLASS_NAME" value="com.sanket.tabnine.TaskManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskManagerTest.testRemoveTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sanket.tabnine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sanket.tabnine" />
+      <option name="MAIN_CLASS_NAME" value="com.sanket.tabnine.TaskManagerTest" />
+      <option name="METHOD_NAME" value="testRemoveTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sanket.tabnine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sanket.tabnine" />
+      <option name="MAIN_CLASS_NAME" value="com.sanket.tabnine.TaskTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.sanket.tabnine in Basics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sanket.tabnine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sanket.tabnine" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TaskTest" />
+        <item itemvalue="JUnit.com.sanket.tabnine in Basics" />
+        <item itemvalue="JUnit.TaskManagerTest.testRemoveTask" />
+        <item itemvalue="JUnit.TaskManagerTest" />
+        <item itemvalue="JUnit.LeapYearCheckerTest (१)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a263e01-112a-4fb8-b8d1-9a2ae28ac145" name="Changes" comment="" />
+      <created>1712393592334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712393592334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Basics$TaskManagerTest.ic" NAME="TaskManagerTest Coverage Results" MODIFIED="1712397322533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.sanket.tabnine.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Basics$LeapYearCheckerTest___.ic" NAME="LeapYearCheckerTest (१) Coverage Results" MODIFIED="1712396461407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.sanket.tabnine.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Basics$LeapYearCheckerTest.ic" NAME="LeapYearCheckerTest Coverage Results" MODIFIED="1712396280854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/Basics$FactorialTest.ic" NAME="FactorialTest Coverage Results" MODIFIED="1712396241101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.sanket.tabnine.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Basics$com_sanket_tabnine_in_Basics.ic" NAME="com.sanket.tabnine in Basics Coverage Results" MODIFIED="1712397978572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.sanket.tabnine.*</FILTER>
+    </SUITE>
+  </component>
+</project>
